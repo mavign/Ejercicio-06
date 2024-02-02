@@ -1,4 +1,4 @@
-console.log('\nDesafío 06 - Punto c')
+console.log('\nDesafío 06 - Ejercicio c')
 
 
 var cantidadDeGatos = 10
@@ -7,7 +7,7 @@ var cantidadDePasos = 4
 
 for (var nGatos = 1; nGatos <= cantidadDeGatos; nGatos++) {
 
-    var pasos = '🐈 '
+    var pasos = (nGatos % 2 == 0 ? '🐈⬛ ' : '🐈 ')
 
 
 

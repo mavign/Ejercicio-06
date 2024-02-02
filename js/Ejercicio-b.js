@@ -1,4 +1,4 @@
-console.log('\nDesafío 06 - Punto b')
+console.log('\nDesafío 06 - Ejercicio b')
 
 
 var cantidadDeGatos = 10
