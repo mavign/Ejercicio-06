@@ -26,3 +26,9 @@ for (nGatos = 1; nGatos <= cantidadDeGatos; nGatos++) {
   console.log('Gato #' + nGatos + ': ' + carita)
 
 }
+
+// Otra solución posible
+
+/*   if (resultadoModuloDeNgatos === 0) carita = '😹'
+  else if (resultadoModuloDeNgatos === 1) carita = '😺'
+  else if (resultadoModuloDeNgatos === 2) carita = '😸' */
